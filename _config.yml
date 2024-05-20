@@ -21,7 +21,7 @@ repository               : "uiokky5/guotest.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/Guo-Lab-Img/guo.png"
+  avatar           : "/Guo-Lab-Img/zhangsheng.png"
   name             : "郭雨薇"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
