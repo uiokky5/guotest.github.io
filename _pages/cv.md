@@ -11,4 +11,4 @@ test test
 
 
 team photos
-![](/Guo-Lab-Img/hezhao.png)
+![](hezhao.png)
