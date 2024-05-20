@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "出版刊物"
-    url: https://github.com/uiokky5/guotest.github.io/tree/master/_talks/2012-03-01-talk-1.md
+    url: guotest.github.io/_talks/2012-03-01-talk-1.md
 
   - title: "教学科目"
     url: /talks/    
