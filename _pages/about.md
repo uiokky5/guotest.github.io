@@ -1,13 +1,14 @@
 ---
 permalink: /
-title: "欢迎郭雨薇老师的实验室@西安电子科技大学"
+
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+郭雨薇，女，1988年生于陕西西安，于2010年考入西安电子科技大学电路与系统专业攻读硕士学位，2011年硕博连读攻读博士学位，于2017年获得工学博士学位。现为西安电子科技大学人工智能学院副教授，智能感知与图像处理教育部重点实验室骨干成员，智能感知与计算国际联合研究中心骨干成员，智能感知与计算国际合作联合实验室骨干成员，教育部“长江学者支持计划”创新团队骨干成员，国家“111计划”创新引智基地骨干成员，陕西省大数据智能感知与计算2011协同创新中心骨干成员。
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+已在国内外著名期刊上发表SCI、EI检索论文数篇。近三年来，以第一作者在《IEEE Transactions on Fuzzy Systems》, 《IEEE Transactions on Cybernetics》,《Pattern Recognition》等SCI一区与二区（中科院分区）期刊上发表学术论文多篇。参与多项国家自然科学基金项目。
 
 A data-driven personal website
 ======
