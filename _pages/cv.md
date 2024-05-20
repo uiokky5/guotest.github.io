@@ -11,4 +11,4 @@ test test
 
 
 team photos
-![11](images/hezhao.png)
+![11](hezhao.png)
