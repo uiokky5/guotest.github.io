@@ -19,14 +19,6 @@ redirect_from:
 
 郭雨薇实验室属于西安电子科技大学人工智能学院，智能感知与图像处理教育部重点实验室。我们的研究方向有人工智能、机器学习和模型部署，其中**遥感**、**域适应**、**可解释性学习**和**跨模态学习**是我们的重点研究方向。通过结合人工智能领域的相关知识，我们希望可以将遥感的多模态图像信息落地到分类识别等具体应用。除此之外，我们希望能通过因果推理增强模型的可信度和可解释性，从而得到更鲁棒的模型，并将其落地在如图像分类等落地应用领域。
 
-<div style="color: red; font-weight: bold;">
-    我们非常欢迎有责任心、有进取心的学生加入我们，详见
-    <a href="https://uiokky5.github.io/guotest.github.io/cv2/">招生信息</a>。
-</div>
-
-
-
-
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
@@ -50,6 +42,11 @@ redirect_from:
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
   </a>
+
+<div style="color: red; font-weight: bold;">
+    我们非常欢迎有责任心、有进取心的学生加入我们，详见
+    <a href="https://uiokky5.github.io/guotest.github.io/cv2/">招生信息</a>。
+</div>
 
   
   <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
