@@ -46,7 +46,7 @@ redirect_from:
 <div style="height: 1em;"></div>
   
 <div style="color: red; font-weight: bold;">
-    我们非常欢迎有责任心、有进取心的学生加入我们，详见
+    我们非常欢迎有责任心、有进取心的学生加入我们，如果你想成为我的研究生或者实习生，请见
     <a href="https://uiokky5.github.io/guotest.github.io/cv2/">招生信息</a>。
 </div>
 
