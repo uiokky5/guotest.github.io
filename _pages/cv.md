@@ -1,11 +1,13 @@
+
 ---
-layout: archive
-title: "CV"
 permalink: /cv/
+title: "团队成员"
 author_profile: true
-redirect_from:
-  - /resume
+redirect_from: 
+  - /about/
+  - /about.html
 ---
+
 
 test test
 
