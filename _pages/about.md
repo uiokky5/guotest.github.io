@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 <div style="text-align: center;">
-    <img src="Guo-Lab-Img/xiaohui.png" alt="xiaohui Image" style="width:10%;"/>
+    <img src="Guo-Lab-Img/xiaohui.png" alt="xiaohui Image" style="width:15%;"/>
 </div>
-
+<div style="height: 0.5em;"></div>
 <div style="text-align: center; font-size: 1.5em; font-weight: bold;">
     郭雨薇实验室<span style="color: gray;">@西安电子科技大学</span>
 </div>
