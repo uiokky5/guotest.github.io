@@ -9,6 +9,8 @@ redirect_from:
 
 
 test test
+<div style="text-align: center;">
+    <img src="/images/guo.png" alt="xiaohui Image" style="width:12%;"/>
+</div>
 
-![这是一张描述图片](/images/guo.png)
 
