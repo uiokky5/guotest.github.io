@@ -7,10 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-
-test test
 <div style="text-align: center;">
-    <img src="Guo-Lab-Img/chen.png" alt="ohui Image" style="width:22%;"/>
+    <img src="Guo-Lab-Img/xiaohui.png" alt="xiaohui Image" style="width:12%;"/>
 </div>
-
 
