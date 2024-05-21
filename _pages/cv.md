@@ -1,4 +1,3 @@
-
 ---
 permalink: /cv/
 title: "团队成员"
