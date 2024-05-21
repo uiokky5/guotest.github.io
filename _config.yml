@@ -24,17 +24,17 @@ author:
   avatar           : "guo.png"
   name             : "郭雨薇"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "人工智能学院副教授"
+  location         : "陕西西安"
+  employer         : "西安电子科技大学"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "yuweiguo18@126.com" 
 
   # Academic websites
 
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=DR-GIokAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  
   semantic         : # URL
   
   # Repositories and software development
