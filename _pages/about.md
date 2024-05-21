@@ -8,15 +8,14 @@ redirect_from:
 ---
 
 <div style="text-align: center;">
-    <img src="Guo-Lab-Img/xiaohui.png" alt="xiaohui Image" style="width:5%;"/>
+    <img src="Guo-Lab-Img/xiaohui.png" alt="xiaohui Image" style="width:10%;"/>
 </div>
 
-<br>
-
-<div style="text-align: center; font-size: 2em; font-weight: bold;">
+<div style="text-align: center; font-size: 1em; font-weight: bold;">
     郭雨薇实验室<span style="color: gray;">@西安电子科技大学</span>
 </div>
 
+<br>
 
 郭雨薇实验室属于西安电子科技大学人工智能学院，智能感知与图像处理教育部重点实验室。我们的研究方向有人工智能、机器学习和模型部署，其中**遥感**、**域适应**、**可解释性学习**和**跨模态学习**是我们的重点研究方向。通过结合人工智能领域的相关知识，我们希望可以将遥感的多模态图像信息落地到分类识别等具体应用。除此之外，我们希望能通过因果推理增强模型的可信度和可解释性，从而得到更鲁棒的模型，并将其落地在如图像分类等落地应用领域。
 
