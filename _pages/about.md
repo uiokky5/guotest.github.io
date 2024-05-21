@@ -43,17 +43,17 @@ redirect_from:
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
   </a>
-<div style="height: 1em;"></div>
-  
-<div style="color: red; font-weight: bold;">
-    我们非常欢迎有责任心、有进取心的学生加入我们，如果你想成为我的研究生或者实习生，请见
-    <a href="https://uiokky5.github.io/guotest.github.io/cv2/">招生信息</a>。
-</div>
 
   
   <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
+</div>
+
+<div style="height: 1em;"></div>
+<div style="color: red; font-weight: bold;">
+    我们非常欢迎有责任心、有进取心的学生加入我们，如果你想成为我的研究生或者实习生，请见
+    <a href="https://uiokky5.github.io/guotest.github.io/cv2/">招生信息</a>。
 </div>
 
