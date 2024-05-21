@@ -1,7 +1,8 @@
 # main links links
 main:
+
   - title: "导师介绍"
-    url: /per/
+    url: https://github.com/uiokky5/guotest.github.io/blob/master/_pages/personal%20web.md
     
   - title: "科研项目"
     url: /talks_guo/
