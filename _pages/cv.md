@@ -10,7 +10,7 @@ redirect_from:
 
 test test
 <div style="text-align: center;">
-    <img src="/images/guo.png" alt="xiaohui Image" style="width:12%;"/>
+    <img src="Guo-Lab-Img/chen.png" alt="xiaohui Image" style="width:12%;"/>
 </div>
 
 
