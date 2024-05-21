@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <div style="text-align: center;">
-    <img src="Guo-Lab-Img/xiaohui.png" alt="xiaohui Image" style="width:15%;"/>
+    <img src="Guo-Lab-Img/xiaohui.png" alt="xiaohui Image" style="width:12%;"/>
 </div>
 <div style="height: 0.5em;"></div>
 <div style="text-align: center; font-size: 1.5em; font-weight: bold;">
