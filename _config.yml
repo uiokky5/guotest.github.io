@@ -12,7 +12,7 @@ title                    : "Guo Lab"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://uiokky5.github.io/guotest.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://uiokky5.github.io/guotest.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "uiokky5/guotest.github.io"
 
