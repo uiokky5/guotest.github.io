@@ -11,6 +11,8 @@ redirect_from:
 
 已在国内外著名期刊上发表SCI、EI检索论文数篇。近三年来，以第一作者在《IEEE Transactions on Fuzzy Systems》, 《IEEE Transactions on Cybernetics》,《Pattern Recognition》等SCI一区与二区（中科院分区）期刊上发表学术论文多篇。参与多项国家自然科学基金项目。
 
+Short description of portfolio item number 1<br/><img src='/images/500x300.png'>
+
 <div style="text-align: center;">
     <img src="Guo-Lab-Img/xiaohui.png" alt="xiaohui Image" style="width:12%;"/>
 </div>
